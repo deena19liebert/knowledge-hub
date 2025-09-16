@@ -1,0 +1,2 @@
+# knowledge-hub
+AI-Powered Collaborative Knowledge Hub (MERN + Gemini AI)  A full-stack knowledge management platform enabling teams to create, manage, and search documents collaboratively. Integrates Google's Gemini AI for automatic summarization, intelligent tag generation, semantic search, and Q&A over team documents. Built with the MERN stack (MongoDB, Express, React, Node.js) and features secure JWT authentication, role-based permissions, version control, and a modern, intuitive UI.
